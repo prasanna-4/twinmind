@@ -2,7 +2,7 @@
 
 A real-time AI meeting copilot that transcribes your mic, surfaces 3 contextual suggestions every ~30 seconds, and answers questions in a live chat panel.
 
-**Live demo:** _(paste Vercel URL here after deploy)_
+**Live demo:** https://twinmind-six.vercel.app
 
 ---
 
