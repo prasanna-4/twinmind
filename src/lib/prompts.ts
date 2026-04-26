@@ -44,7 +44,7 @@ export const DEFAULT_DETAILED_ANSWER_PROMPT = `Based on the meeting transcript p
 Be thorough but focused — the user is in an active meeting.`;
 
 export const DEFAULT_SETTINGS: Settings = {
-  model: 'meta-llama/llama-4-maverick-17b-128e-instruct',
+  model: 'llama-3.3-70b-versatile',
   suggestionPrompt: DEFAULT_SUGGESTION_PROMPT,
   chatSystemPrompt: DEFAULT_CHAT_SYSTEM_PROMPT,
   detailedAnswerPrompt: DEFAULT_DETAILED_ANSWER_PROMPT,

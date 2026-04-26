@@ -74,7 +74,7 @@ Responses stream token-by-token so the chat column feels instant even before the
 | Setting | Default | Description |
 |---------|---------|-------------|
 | Groq API key | — | Stored in `localStorage`, never sent anywhere except Groq |
-| Model | `meta-llama/llama-4-maverick-17b-128e-instruct` | Update to Groq's GPT-OSS 120B model ID |
+| Model | `llama-3.3-70b-versatile` | Assignment specifies "GPT-OSS 120B"; update model ID in Settings if Groq releases it |
 | Suggestion context window | 2,000 words | Words of transcript sent to the suggestion model |
 | Chat context window | 4,000 words | Words of transcript sent as chat context |
 | Refresh interval | 30 s | How often auto-refresh fires |
